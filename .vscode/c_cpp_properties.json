@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:/Documents/Arduino/libraries",
+                "D:/Documents/Arduino/libraries/OneWire"
             ],
             "defines": [
                 "_DEBUG",
